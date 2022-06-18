@@ -8,7 +8,7 @@ A) Check and inform if HTML of given url such that if it contains any vulnerabil
 B) Check and inform if any comment have any key value in url linked files 
 
 
-C) Check for pritection of password such that no password is stored in palintext.
+C) Check for protection of password such that no password is stored in palintext.
  
  
 If url has no vulnerabilities vulnerability report will be as follows:
